@@ -30,8 +30,8 @@ Clone the Repository:
 
 bash
 Copy
-git clone https://github.com/your-username/video-processing-app.git
-cd video-processing-app
+git clone https://github.com/universussoft/Video-Processing-Web-App.git
+cd Video-Processing-Web-App
 Install Python Dependencies:
 Install the required Python packages using pip:
 
@@ -126,7 +126,7 @@ The app will process the video and display the results.
 
 Project Structure
 Copy
-video-processing-app/
+Video-Processing-Web-App/
 │
 ├── app.py                  # Main Flask application
 ├── download_ffmpeg.py      # Script to download FFmpeg
@@ -157,4 +157,3 @@ Check the logs for detailed error messages.
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
